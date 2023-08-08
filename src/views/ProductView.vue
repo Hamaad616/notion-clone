@@ -5,7 +5,9 @@
 </template>
 
 <script>
+import TheHeroSection from '@/components/TheHeroSection.vue'
 export default {
+  components: { TheHeroSection },
 
 }
 </script>
